@@ -1,4 +1,4 @@
-# Carlos' NextJS starter
+# Shane's NextJS starter
 
 This is my very own NextJS starter, suitable for my own purposes. Feel free to use it if it suits yours too :)
 
